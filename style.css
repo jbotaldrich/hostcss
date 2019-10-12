@@ -5,3 +5,11 @@ header {
 footer {
   display: none;
 }
+
+.MuiAppBar-root {
+  display: none !important;
+}
+
+#footer {
+  display: none !important;
+}
